@@ -22,7 +22,7 @@ Currently learning Angular, PHP, MySQL and modern web technologies to become a p
 
 -  Second-Year Computer Science Student
 -  Aspiring Full Stack Developer
--  Currently learning **React, PHP & MySQL**
+-  Currently learning **Angular, PHP & MySQL**
 -  Goal: Become a Professional Software Engineer
 -  Always improving my coding skills
 -  Interested in UI/UX Design
@@ -50,7 +50,6 @@ Currently learning Angular, PHP, MySQL and modern web technologies to become a p
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ###  Back-End
 
